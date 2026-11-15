@@ -126,4 +126,4 @@ Check your server's rules on client-side mods before using it.
 
 This mod is not affiliated with or endorsed by DonutSMP or any other Minecraft server.
 
-**Made by Mintix\_**
+**Made by Mintixx\_**
