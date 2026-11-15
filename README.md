@@ -46,6 +46,11 @@ Your inventory value is an estimate, not money you've actually earned.
 
 Press Right Shift to open the menu. You can rebind it in Controls. It's also available through Mod Menu and `/profit`.
 
+<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/458791d4-e629-46fb-8d88-9c0cfa11e2ce" />
+
+<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/57d354d3-d4e5-465c-9d01-24cc8c6e4b96" />
+
+
 | Tab             | What you can change                                                        |
 | --------------- | -------------------------------------------------------------------------- |
 | Overview        | Balance, earnings, expenses, net profit, inventory value, session duration |
