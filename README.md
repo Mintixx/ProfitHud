@@ -6,6 +6,11 @@ See exactly how much money you're making, how much you're spending, and how valu
 
 Client-side only. You install it, the server doesn't need to.
 
+![Minecraft](https://img.shields.io/badge/Minecraft-26.3-brightgreen?style=for-the-badge&logo=minecraft)
+![Minecraft](https://img.shields.io/badge/Minecraft-26.2-brightgreen?style=for-the-badge&logo=minecraft)
+![Fabric](https://img.shields.io/badge/Mod%20Loader-Fabric-orange?style=for-the-badge)
+![Client Side](https://img.shields.io/badge/Client--Side-Only-blue?style=for-the-badge)
+
 ## Features
 
 ### Profit HUD
